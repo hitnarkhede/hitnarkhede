@@ -1,4 +1,4 @@
-s<h1 align="center">Hi👋 Welcome to my profile! I'm Hitesh Narkhede</h1>
+<h1 align="center">Hi👋 Welcome to my profile! I'm Hitesh Narkhede</h1>
 
 <h3 align="left">Backend Developer  |  Spring MVC  |  Spring Boot  | .NET Framework</h3>
 
